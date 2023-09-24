@@ -26,3 +26,6 @@ Here are some precalculated merkle roots for select AMC contests:
 Commands are only synced for Dist Honor Roll, feel free to change the command structure to fix this.
 To prove scores for other contests, upload the corresponding csv file into `providers/data` and name it  
 ```<year> AMC<test> Dist Honor Roll.csv```.
+
+Built from halo2-scaffold:
+<https://github.com/axiom-crypto/halo2-scaffold>
