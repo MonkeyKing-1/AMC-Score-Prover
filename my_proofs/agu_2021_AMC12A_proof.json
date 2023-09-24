@@ -1,0 +1,60 @@
+{
+    "root": "82651253814a633beb4be2bb252418060a1364ba5873bdbe47f088e143d33f05",
+    "directions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "merkle_proof": [
+        "321aeb7d0d529aaf28c2425c775cc197e9d678a70fd0fa7ef602a881446d3c27",
+        "f3deb5d5a6e9ad307493a8d7c95ef95e5073b86bc5b11c6d58aa97a0d00b06b5",
+        "0000000000000000000000000000000000000000000000000000000000000000",
+        "00000000000000000000000000000000000000000000000000000000000000a4",
+        "9e2adb085258583c750c15f6792166574c7a9e3c2e0753c9ae7f3523209c9f71",
+        "279be866485e6a7774c00595ead39f81e7fcfaae507900a32853f5a9c6e60d10",
+        "340b3da55120cffb43703b0cdb67a22b852b389a2e5974f0e1c932ae392903af",
+        "68f25aedef92ddee9c96f8f0c57954dbbdc49ec3f0c942598910ac42cc636408",
+        "4b6a1a1908567430804c04a0be70c9e6fa20910b3ea180f8f11569a32b72a67f",
+        "daa3cd869839ce4e9581db27e6cce510dd3134ae7040fdae4e2a0a5c2d4d70a6",
+        "1411fe459c6bf228f84157af4c90a5f0190594472943852344b4dd198c511ae9",
+        "0357936597351438072d3864fa333f1871bafec632e7ce393f874d135f49c9fa"
+    ],
+    "name": {
+        "bytes": "2021 AMC 12A Distinguished Honor Roll"
+    },
+    "author": {
+        "bytes": "Andrew Gu"
+    },
+    "header": {
+        "concat": "scoreFirst_initiallastnamegradeSchoolNameCity",
+        "lens": [
+            5,
+            13,
+            8,
+            5,
+            10,
+            4
+        ]
+    },
+    "fields": {
+        "concat": "150.0SKunapuli8AlphaStar AcademySanta Clara, CA",
+        "lens": [
+            5,
+            1,
+            8,
+            1,
+            17,
+            15
+        ]
+    },
+    "max_depth": 20
+}

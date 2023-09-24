@@ -1,0 +1,62 @@
+{
+    "root": "394e3cef59a1175f578d34d5b260ebd77cae4e84fa6105f543db4279cf8825f8",
+    "directions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "merkle_proof": [
+        "321aeb7d0d529aaf28c2425c775cc197e9d678a70fd0fa7ef602a881446d3c27",
+        "8fcfaaef4f4a2b49fcf212ea6c615097a8a000272c63b300031fb457b54bda0a",
+        "0000000000000000000000000000000000000000000000000000000000000000",
+        "00000000000000000000000000000000000000000000000000000000000001c1",
+        "f9bd574670229e26a140a39f7f6414b3f17316f1294c7acd0e8eeed7d911c0dd",
+        "c97647479b4e302d549362ff1d895069e10ef82c270c73e6305ad01b182a49c2",
+        "ab7c64572795b7542ad17dc19e8f9f0ec6810814af82da10ea3a2faa2ba22a80",
+        "871c9505f23e3e83c284050be9310dad68545044cac013607e7a7050caa2dcfe",
+        "63d87d5a6cb57b9bf578e2c663763492fad01944e37687dd9338adfaa8baaa53",
+        "41fb77cefe6a08b47d71c44672ccaf888f9e90f2842b21f83bdd17732a73c378",
+        "04c2f6167f86f19f222d7c53b750573ee61885367d12fe944a23c26362ff23e2",
+        "b11ec37b44f346f5210505e59d209251c9399e7964e91bc45be234d322308404",
+        "5679ea0a2ef21b4ff5a2f134cf9da9b9809f2ded2413c887dd70cb025977f93e"
+    ],
+    "name": {
+        "bytes": "2018 AMC 12A Distinguished Honor Roll"
+    },
+    "author": {
+        "bytes": "Andrew Gu"
+    },
+    "header": {
+        "concat": "scoreFirst_initiallastnamegradeSchoolNameCity",
+        "lens": [
+            5,
+            13,
+            8,
+            5,
+            10,
+            4
+        ]
+    },
+    "fields": {
+        "concat": "150.0AGU8Orange County Math CircleLADERA RANCH, CA",
+        "lens": [
+            5,
+            1,
+            2,
+            1,
+            25,
+            16
+        ]
+    },
+    "max_depth": 20
+}
