@@ -1,5 +1,13 @@
 # AMC-Score-Prover
-Here are the basic commands:
+To clone this repo locally, run either of the following commands:
+* ```bash
+  git clone https://github.com/MonkeyKing-1/AMC-Score-Prover.git
+  ```  
+* ```bash
+  git clone git@github.com:MonkeyKing-1/AMC-Score-Prover.git
+  ```  
+
+Within the directory that the repo lives, here are the basic commands:
 * To generate the root for a test, run the following command:  
     ```bash proof_gen.sh <year> <test> <fileid> <index> root```  
     `test` and `fileid` can be any dummy value here.
