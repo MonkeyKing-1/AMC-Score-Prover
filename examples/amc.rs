@@ -1,10 +1,9 @@
 use axiom_eth::Field;
-use axiom_eth::keccak::{KeccakChip, KeccakFixedLenQuery};
+use axiom_eth::keccak::{KeccakChip};
 use clap::Parser;
 use ethers_core::utils::hex::FromHex;
 use halo2_base::QuantumCell::Constant;
 use halo2_base::gates::{GateInstructions, RangeChip, RangeInstructions};
-use halo2_base::halo2_proofs::plonk::Assigned;
 use halo2_base::utils::ScalarField;
 use halo2_base::{AssignedValue, Context};
 use halo2_scaffold::scaffold::cmd::Cli;
