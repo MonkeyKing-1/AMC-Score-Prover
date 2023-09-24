@@ -10,9 +10,9 @@
         0,
         0,
         0,
-        1,
         0,
-        0
+        0,
+        1
     ],
     "merkle_proof": [
         "321aeb7d0d529aaf28c2425c775cc197e9d678a70fd0fa7ef602a881446d3c27",
@@ -24,9 +24,9 @@
         "340b3da55120cffb43703b0cdb67a22b852b389a2e5974f0e1c932ae392903af",
         "68f25aedef92ddee9c96f8f0c57954dbbdc49ec3f0c942598910ac42cc636408",
         "4b6a1a1908567430804c04a0be70c9e6fa20910b3ea180f8f11569a32b72a67f",
-        "daa3cd869839ce4e9581db27e6cce510dd3134ae7040fdae4e2a0a5c2d4d70a6",
-        "1411fe459c6bf228f84157af4c90a5f0190594472943852344b4dd198c511ae9",
-        "0357936597351438072d3864fa333f1871bafec632e7ce393f874d135f49c9fa"
+        "93a0f3a9404a889a93b515a5d9e6580a4b29d4483781fbde15a734036376d7b7",
+        "3e40d37df88aa3bd9dfd15875310b183e6fac4c110a62549f8dac924a0fc1cf5",
+        "3f72ad8f1bd777364f99c86453df0a98d578a7554aecb829426618bde7cdf3a1"
     ],
     "name": {
         "bytes": "2021 AMC 12A Distinguished Honor Roll"
@@ -46,14 +46,14 @@
         ]
     },
     "fields": {
-        "concat": "150.0SKunapuli8AlphaStar AcademySanta Clara, CA",
+        "concat": "150.0AGu11Orange County Math CircleSanta Ana, CA",
         "lens": [
             5,
             1,
-            8,
-            1,
-            17,
-            15
+            2,
+            2,
+            25,
+            13
         ]
     },
     "max_depth": 20
