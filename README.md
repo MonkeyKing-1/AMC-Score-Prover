@@ -1,7 +1,7 @@
 # AMC-Score-Prover
 To clone this repo locally, run either of the following commands:
 * ```bash
-    git clone https://github.com/MonkeyKing-1/AMC-Score-Prover.git
+  git clone https://github.com/MonkeyKing-1/AMC-Score-Prover.git
   ```  
 * ```bash
   git clone git@github.com:MonkeyKing-1/AMC-Score-Prover.git
